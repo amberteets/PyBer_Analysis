@@ -17,3 +17,7 @@ The greatest number of PyBer rides occur in Urban cities, followed by Suburban a
 ![Total Fare by City Type](https://github.com/amberteets/PyBer_Analysis/blob/main/analysis/Fare_by_type.png)
 
 ## Recommendations
+
+To address the disparities between city types, more information is needed to determine if the differences are simply due to supply and demand, or if PyBer's policies are to blame. For instance, rural cities may have fewer drivers and higher fares per ride because the population is smaller and the average ride distance is longer than in urban settings. PyBer may want to investigate whether a different fee structure for different city types is appropriate. PyBer could also introduce incentive programs to attract more drivers in suburban and rural communities.
+
+
